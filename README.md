@@ -1,8 +1,5 @@
-# In progress
+Much of the technology that people use to access safety net programs and states use to administer those programs is aging and crumbling, despite significant spending and effort to modernize. This is a concept piece that describes of possible future position of strength that could help address this challenge.
 
-This is a public copy of an in-progress concept for how the eligibility systems used in the human services space could be structured. More will be added soon.
+<span style="background-color:#ccf0ff;text-align:center;display:block;color:white;font-size:1.75em;padding-left:1em;padding-right:1em;padding-top:.5em;padding-bottom:.5em;margin-top:1em;margin-bottom:1em;font-weight:bold"><a href="concept.md">Get started</a></span>
 
-- [Map](https://github.com/18F/eligibility-system-concept/blob/master/map_20190324.pdf)
-- [Sketch file](https://github.com/18F/eligibility-system-concept/blob/master/eligibility-system-concept.sketch)
-
-See [License.md](https://github.com/18F/eligibility-system-concept/tree/master/LICENSE.md)
+This work is [open source](license.md).
