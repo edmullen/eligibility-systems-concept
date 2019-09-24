@@ -1,4 +1,4 @@
-[Return to introduction]()
+[Return to introduction](index.md)
 
 # _Strength #2:_ Eligibility policy is delivered as functional code.
 
@@ -31,4 +31,4 @@ time.
 
 ---
 
-### [Next]()
+### [Next](data.md)

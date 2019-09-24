@@ -1,4 +1,4 @@
-[Return to introduction]()
+[Return to introduction](index.md)
 
 # _Strength 3:_ Applicant data submission is decoupled from program applications.
 
@@ -24,4 +24,4 @@ Data should be entered in aggregate for all relevant programs in the most intuit
 
 ---
 
-### [Next]()
+### [Next](client-experiences.md)

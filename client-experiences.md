@@ -1,4 +1,4 @@
-[Return to introduction]()
+[Return to introduction](index.md)
 
 # _Strength #4:_ Client experiences are intuitive, appropriate, and empowering.
 
@@ -77,4 +77,4 @@ CMS’s Web & New Media Group built upon the U.S. Web Design System to create a 
 
 ---
 
-### [Next]()
+### [Next](state-staff.md)

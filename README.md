@@ -2,4 +2,4 @@ Much of the technology that people use to access safety net programs and states 
 
 <span style="background-color:#ccf0ff;text-align:center;display:block;color:white;font-size:1.75em;padding-left:1em;padding-right:1em;padding-top:.5em;padding-bottom:.5em;margin-top:1em;margin-bottom:1em;font-weight:bold"><a href="concept.md">Get started</a></span>
 
-This work is [open source](license.md).
+This [open source](license.md) repository contains work that I have done in my personal capacity. It references some open source work that I have done in my professional capacity for my employer.

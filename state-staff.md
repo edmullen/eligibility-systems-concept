@@ -1,4 +1,4 @@
-[Return to introduction]()
+[Return to introduction](index.md)
 
 # _Strength #5:_ State staff have tools that empower them to deliver excellent service and achieve their mission
 
@@ -113,4 +113,4 @@ This area needs to be fleshed out further. State directors need to be empowered 
 
 ---
 
-### [Next]()
+### [Next](incremental.md)
