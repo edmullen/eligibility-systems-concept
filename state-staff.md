@@ -21,7 +21,8 @@ I have mocked up a concept for what an empowering worker experience could look l
 
 **This prototype is incomplete.** You'll find dead-ends or screens that are empty. Follow the blinking blue dots to find the fields you can click on. Submitting a new blank application is the workflow I focused on mostly.
 
-<span style="background-color:#ccf0ff;text-align:center;display:block;color:white;font-size:1.75em;padding-left:1em;padding-right:1em;padding-top:.5em;padding-bottom:.5em;margin-top:1em;margin-bottom:1em;font-weight:bold"><a href="https://gsa.invisionapp.com/share/32QAEWUR9HG">View the prototype</a></span>
+[![View the prototype](/concept_assets/view_prototype.png)](https://gsa.invisionapp.com/share/32QAEWUR9HG)
+
 
 > **I would LOVE to further explore this idea.** If you would too, I'd love to speak with you. As my term at 18F is winding down, I am exploring what my next adventure should be, and I'd love to find ways to build empowering experiences for eligibility workers.
 
@@ -109,7 +110,7 @@ This area needs to be fleshed out further. It should provide managers with visib
 
 This area needs to be fleshed out further. State directors need to be empowered with on-demand tools that show the current status of state operations, access to neccessary data, and one-click compliance with federal data reporting requirements.
 
-<span style="background-color:#ccf0ff;text-align:center;display:block;color:white;font-size:1.75em;padding-left:1em;padding-right:1em;padding-top:.5em;padding-bottom:.5em;margin-top:1em;margin-bottom:1em;font-weight:bold"><a href="https://gsa.invisionapp.com/share/32QAEWUR9HG">View the prototype</a></span>
+[![View the prototype](/concept_assets/view_prototype.png)](https://gsa.invisionapp.com/share/32QAEWUR9HG)
 
 ---
 

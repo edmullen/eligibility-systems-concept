@@ -27,13 +27,11 @@ Rather than just delivering written guidance, programs should create and expose 
 Rather than collecting data on an application-by-application basis, we should gather data from applicants in aggregate for all relevant programs in the most intuitive way for the applicant.
 
 #### [4. Client experiences are intuitive, appropriate, and empowering](client-experiences.md)
-Rather than opaque and demoralizing)_
 Recent work on the applicant experience has largely figured out what applying should look like.
 Government design systems have defined good practice for how public-facing systems should look and function.
 
 #### [5. State staff have tools that empower them to deliver excellent service and achieve their mission.](state-staff.md)
-Rather than just compliance)_  
- A concept for what a tool that empowers eligibility workers to meet their mission could look like.
+Rather than providing tools that state workers need to overcome to do their work, they should have tools that unlock their potential. Here I present a prototype of what a tool that empowers eligibility workers to meet their mission could look like.
 
 #### [6. Legacy systems are steadily transformed through modest increments, continuously delivered to users](incremental.md)
 Transitioning from a position of weakness to a position of strength will be hard. States will need to unwind their legacy systems to tap into a more loosely-couple ecosystem through a series of incremental improvements.
