@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength 3:_ Applicant data submission is decoupled from program applications.
 
 ### A general model for data collection

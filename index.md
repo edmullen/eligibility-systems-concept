@@ -1,3 +1,5 @@
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # Introduction
 
 Much of the technology that people use to access safety net programs and that states use to administer these programs is aging and crumbling, despite significant spending and effort to modernize.

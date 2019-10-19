@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength #5:_ State staff have tools that empower them to deliver excellent service and achieve their mission
 
 The tools eligibility workers, their managers, and those who lead public assistance administration in states use should empower these civil servants to serve their clients more efficiently and effectively. Their tools should:

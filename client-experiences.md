@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength #4:_ Client experiences are intuitive, appropriate, and empowering.
 
 The rules, requirements, and actions people need to take to qualify and receive benefits from public assistance programs are inherently complicated. Improving the experiences people have as they interface with these programs is also a very complex undertaking.

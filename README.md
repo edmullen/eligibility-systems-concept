@@ -2,4 +2,6 @@ Much of the technology that people use to access safety net programs and states 
 
 [**Get started**](index.md)
 
-This [open source](license.md) repository contains work that I have done in my personal capacity. It references some open source work that I have done in my professional capacity for my employer.
+This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing).
+
+This work is [open source](license.md).

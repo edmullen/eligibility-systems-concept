@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength #1:_ A loosely-coupled ecosystem of state, federal, and commodity software products, web services and data powers federal/state safety net programs.
 
 The current distribution of technology responsibilities between federal and state safety net agencies needs to change. Today's rigid separation between federal program/policy design and state technical implementation has bred an ecosystem characterized by stagnation, duplicative effort, system failures, waste, and poor outcomes for our neighbors involved at each level.

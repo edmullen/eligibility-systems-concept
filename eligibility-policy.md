@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength #2:_ Eligibility policy is delivered as functional code.
 
 Federal programs that define who is entitled to receive benefits should provide official implementations of eligibility criteria in code that states and others can integrate into their eligibility systems via APIs. No longer should state after state need to hire vendors to interpret, build, and maintain the same business logic. That approach is expensive, duplicative, error-prone, risky, and leads to vendor lock-in.

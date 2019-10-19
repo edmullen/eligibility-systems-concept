@@ -1,5 +1,7 @@
 [Return to introduction](index.md)
 
+_Note: This repository represents my personal work, done in my personal time and capacity. It is not representative of GSA (my employer at the time of publishing)._
+
 # _Strength 6:_ Legacy systems are steadily transformed through modest increments, continuously delivered to users
 
 Modernizing legacy systems is difficult in the best of circumstances. The government context presents many additional complicating factors. To tap into a more loosely-couple ecosystem, states will need to unwind their legacy systems through a series of incremental improvements.
