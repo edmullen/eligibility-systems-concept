@@ -26,7 +26,7 @@ I have mocked up a concept for what an empowering worker experience could look l
 
 > **I would LOVE to further explore this idea.** If you would too, I'd love to speak with you. As my term at 18F is winding down, I am exploring what my next adventure should be, and I'd love to find ways to build empowering experiences for eligibility workers.
 
-This work is [open source](LICENSE.md). Here's the [Sketch file](/concept_assets/eligibility-system-concept.sketch) used to create the prototype.
+See the original [open source repository](https://github.com/18F/state-worker-app-concept) for the prototype where you can download the [Sketch file](https://github.com/18F/state-worker-app-concept/blob/master/worker-tool-concept.sketch) used to create the prototype.
 
 ## High level workflow
 

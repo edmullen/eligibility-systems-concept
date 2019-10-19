@@ -2,7 +2,7 @@
 
 Much of the technology that people use to access safety net programs and that states use to administer these programs is aging and crumbling, despite significant spending and effort to modernize.
 
-I have worked in this space for several years and have had a chance to see the problems from a variety of angles. **As I near the end of my term at 18F, I've felt compelled to somehow package up where I think we need to go. This is my attempt.**
+I have worked in this space for several years and have had a chance to see the problems from a variety of angles. **Nearing the end of my term at 18F has prompted me to reflect. This is my attempt to describe the challenges as I see them and present some ways forward under the current paradigm.**
 
 ## Our current approaches to fixing this situation play right into government’s weaknesses.
 
